@@ -1,0 +1,4 @@
+usr/lib/*/libKF5KDEGames.so.7
+usr/lib/*/libKF5KDEGames.so.7.*
+usr/share/locale/
+usr/share/qlogging-categories5/libkdegames.categories
